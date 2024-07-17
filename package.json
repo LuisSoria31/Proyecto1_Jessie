@@ -15,5 +15,12 @@
   "workspaces": [
     "src/Proyecto1_backend",
     "src/Proyecto1_frontend"
-  ]
+  ],
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17"
+  }
 }
